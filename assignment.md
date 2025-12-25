@@ -21,3 +21,8 @@ Which memory is volatile?
 a) ROM
 b) RAM ✅
 c) Hard Disk
+
+🎯 PRACTICAL TASK
+
+✔️ Draw Block Diagram of Computer in notebook
+✔️ Write generations table (for exam)
